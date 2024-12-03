@@ -1,1 +1,1 @@
-Soofs filosophieeën over het alledaagse leven.
+Soofs FiloSophieën over het alledaagse leven.
