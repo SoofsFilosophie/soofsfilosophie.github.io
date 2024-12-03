@@ -1,1 +1,2 @@
-![favicon](https://github.com/user-attachments/assets/9b153a1a-5cb1-46fb-8eaf-520d906d0726)Soofs FiloSophieën over het alledaagse leven.
+![favicon](https://github.com/user-attachments/assets/41164de5-f567-4e63-8f15-47a42d9f23f5)
+Soofs FiloSophieën over het alledaagse leven.
