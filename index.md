@@ -1,2 +1,2 @@
-![favicon](https://github.com/user-attachments/assets/e643ea3d-72ef-499d-82f9-1a19666dd997)
+![favicon](https://github.com/user-attachments/assets/7e416262-200f-4f6b-a70e-65ea3f3a4cab)
 Soofs FiloSophieën over het alledaagse leven.
