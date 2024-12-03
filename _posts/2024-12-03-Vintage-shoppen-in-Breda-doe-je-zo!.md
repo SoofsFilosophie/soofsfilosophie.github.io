@@ -1,4 +1,4 @@
-###Vintage shoppen in Breda doe je zo!
+**Vintage shoppen in Breda doe je zo!**
 
 Op een vrije dag loop ik graag een rondje in het cosy centrum van Breda. En hoe toevallig is het, dat mijn route precies langs de leukste vintageshops loopt? Zo kan ik uren rond snuffelen op zoek naar een warme opa trui of vind ik de zonnebril van mijn dromen. Van sweatervest tot sjaal. De nieuwste TikTok mode trends kun je hier vinden:
 
@@ -15,4 +15,5 @@ Loop verder door de stad, over de Grote Markt naar de Sint Annastraat. Tegenover
 Tot slot zit bij het centraal station in de buurt Bloesem Vintage. Een wat kleinere zaak, maar met veel mooie items. De ruimte is comfy ingedeeld en geeft een zachte sfeer. Er zijn maar een paar rekken, maar elk gevuld met de coolste vintage items. Ze verkopen kwaliteit en daar betaal je dan ook voor. Echte wollen truien en mooie jurkjes en tops. Ga hier langs wanneer je vintage kleren wil shoppen die wel de vibe geven van Rejoes of KiloKilo, maar betere kwaliteit hebben.
 
 Ik raad aan deze route niet te vaak te lopen, want op mijn studenten inkomen zit ik er erg krapjes bij. Of vraag wat meer aan oome Duo en geef jezelf die sweattreat die je verdiend hehehe. 
-Veel shopplezier! Kusjes Soof xxx
+
+Veel shopplezier! Kusjes Soof **xxx**
