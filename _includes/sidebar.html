@@ -1,0 +1,19 @@
+<div class="sidebar sticky-top">        
+    <div class="sidebar-section">
+        <h5><span>Latest Posts</span></h5>
+        {% for post in site.posts %}
+            <div class="sidebar-post">
+                <a href="{{ post.url | absolute_url }}">
+                    {% if post.image %}
+                        <img class="sidebar-thumbnail" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
+                    {% endif %}
+                    <div class="sidebar-post-info">
+                        <h6 class="sidebar-post-title">{{ post.title }}</h6>
+                        <span class="sidebar-post-author">By {% if post.author %}{{ site.authors[post.author].display_name }}{% else %}{{ site.author }}{% endif %}</span>
+                        <span class="sidebar-post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+                    </div>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+</div>
