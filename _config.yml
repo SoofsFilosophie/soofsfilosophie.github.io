@@ -1,43 +1,56 @@
 title: "SoofsFiloSophie"
-author: "Sophie Pullens"
-description: "Soofs FiloSophieën over het alledaagse leven." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-favicon: /favicon.svg
-
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
-# email: "example@mail.com"
-# twitter_username: "twitteruser"
-# github_username: "githubuser"
-# linkedin_username: "linkedinuser"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
-
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
-
-rss: rss
-
+email: wowthemesnet@gmail.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: "assets/images/logo.png"
+favicon: "favicon.svg"
+author: Sophie Pullens
+paginate: 30
+disqus: "Soofs FiloSophieën over het alledaagse leven."
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: "assets/images/sal.png"
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John
+    avatar: "assets/images/john.png"
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+
+# Social
+social:
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  twitter: https://twitter.com/bstartercom
+
+# Plugins
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
-
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: Other
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
