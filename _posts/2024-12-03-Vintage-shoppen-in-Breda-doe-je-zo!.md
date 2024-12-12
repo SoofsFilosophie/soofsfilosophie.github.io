@@ -1,8 +1,13 @@
-**Vintage shoppen in Breda doe je zo!**
+---
+layout: post
+title: "Vintage shoppen in Breda doe je zo!"
+categories: [Jekyll, tutorial]
+image: assets/images/1.jpg
+---
 
 Op een vrije dag loop ik graag een rondje in het cosy centrum van Breda. En hoe toevallig is het, dat mijn route precies langs de leukste vintageshops loopt? Zo kan ik uren rond snuffelen op zoek naar een warme opa trui of vind ik de zonnebril van mijn dromen. Van sweatervest tot sjaal. De nieuwste TikTok mode trends kun je hier vinden:
 
-In de Ginnekenstraat vind je de meest populaire vintageshops van Breda. De Rejoes zit er pas een paar weken, maar ik ben er al wel 20 keer geweest. Hij valt misschien niet zo goed op, maar hij zit links naast de Hema. Neem de roltrap naar beneden en je komt in de hemel voor thriftshoppers uit. Tientallen rekken met elk unieke items staan in de hele winkel. Denk aan die foute 80’s wollen truien, echte leren jassen, of duitse voeltbalsjaals, alles hebben ze. Geniet van de relaxte vibe en scoor die cargopants of dat cottage core topje! 
+In de Ginnekenstraat vind je de meest populaire vintageshops van Breda. De Rejoes zit er pas een paar weken, maar ik ben er al wel 20 keer geweest. Hij valt misschien niet zo goed op, maar hij zit links naast de Hema. Neem de roltrap naar beneden en je komt in de hemel voor thriftshoppers uit. Tientallen rekken met elk unieke items staan in de hele winkel. Denk aan die foute 80’s wollen truien, echte leren jassen, of duitse voeltbalsjaals, alles hebben ze. Geniet van de relaxte vibe en scoor die cargopants of dat cottage core topje!
 
 Iets verderop in de straat zit KiloKilo. Een thrift shop waar alles per kilo betaald word. Kies een item en stop hem in een van de weegschaal mandjes om te kijken hoeveel het kost. Deze keten is door heel het land te vinden en reizen ook vaak rond. Zo hebben ze winkels in verschillende steden, maar ook op evenementen en vette locaties zoals Pier15 kan je ze een paar keer per jaar vinden. De KiloKilo winkel in Breda is smal en cosy ingericht. Tientallen rekken staan tegen de muren met sicke band-shirts, Levi-jeans of vintage handtassen. Boven de rekken hangen de ultieme outfits-of-the-day die door de medewerkers zijn uitgekozen. Zie je iets leuks hangen? Dan halen ze het item gemakkelijk van de muur voor je! Snuffel dus lekker door alle rekken en vergeet vooral niet achterin een kijkje te nemen in de mutsen, sjaals en zonnebrillen sectie.
 
@@ -14,6 +19,6 @@ Loop verder door de stad, over de Grote Markt naar de Sint Annastraat. Tegenover
 
 Tot slot zit bij het centraal station in de buurt Bloesem Vintage. Een wat kleinere zaak, maar met veel mooie items. De ruimte is comfy ingedeeld en geeft een zachte sfeer. Er zijn maar een paar rekken, maar elk gevuld met de coolste vintage items. Ze verkopen kwaliteit en daar betaal je dan ook voor. Echte wollen truien en mooie jurkjes en tops. Ga hier langs wanneer je vintage kleren wil shoppen die wel de vibe geven van Rejoes of KiloKilo, maar betere kwaliteit hebben.
 
-Ik raad aan deze route niet te vaak te lopen, want op mijn studenten inkomen zit ik er erg krapjes bij. Of vraag wat meer aan oome Duo en geef jezelf die sweattreat die je verdiend hehehe. 
+Ik raad aan deze route niet te vaak te lopen, want op mijn studenten inkomen zit ik er erg krapjes bij. Of vraag wat meer aan oome Duo en geef jezelf die sweattreat die je verdiend hehehe.
 
 Veel shopplezier! Kusjes Soof **xxx**

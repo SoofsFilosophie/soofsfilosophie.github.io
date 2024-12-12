@@ -1,4 +1,9 @@
-**Voor alles is een 1e keer**
+---
+layout: post
+title: "Voor alles is een 1e keer"
+categories: [Jekyll, tutorial]
+image: assets/images/1.jpg
+---
 
 Hiii pookie!
 
