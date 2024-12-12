@@ -3,7 +3,7 @@ email: sophie.pullens.04@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: "favicon.svg"
+logo: "assets/images/logo.png"
 favicon: "favicon.svg"
 author: Sophie Pullens
 paginate: 30
