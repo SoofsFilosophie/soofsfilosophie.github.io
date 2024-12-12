@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Vintage shoppen in Breda doe je zo!"
-categories: [Jekyll, tutorial]
-image: assets/images/1.jpg
+categories: [Lifestyle, Shoppen]
+image: assets/images/2.jpg
 ---
 
 Op een vrije dag loop ik graag een rondje in het cosy centrum van Breda. En hoe toevallig is het, dat mijn route precies langs de leukste vintageshops loopt? Zo kan ik uren rond snuffelen op zoek naar een warme opa trui of vind ik de zonnebril van mijn dromen. Van sweatervest tot sjaal. De nieuwste TikTok mode trends kun je hier vinden:

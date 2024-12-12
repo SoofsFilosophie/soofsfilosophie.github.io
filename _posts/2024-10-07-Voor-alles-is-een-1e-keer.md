@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voor alles is een 1e keer"
-categories: [Jekyll, tutorial]
+categories: [Blog]
 image: assets/images/1.jpg
 ---
 
