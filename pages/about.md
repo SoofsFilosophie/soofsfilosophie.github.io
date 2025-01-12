@@ -11,4 +11,4 @@ Verder ben ik met lekker weer te vinden op een dekentje in het park, maar met re
 
 Tijdens deze studie hoop ik nog veel meer dingen te mogen doen waar ik geen genoeg van kan krijgen. Maar welke dat precies zijn, weet ik nog niet. Ik sla een compleet nieuw pad in en dat kan soms spannend zijn. Willen jullie met mij mee de gewone allerdaagse dingen speciaal maken? :)
 
-![](blob:https://web.whatsapp.com/693527d5-58d8-4b3a-950d-e3350aa57b34)
+![image](https://github.com/user-attachments/assets/6c94970f-9c24-4592-b30b-a79ff3370903)
