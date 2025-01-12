@@ -5,7 +5,7 @@ permalink: "/about/"
 #image: assets/images/5.jpg
 ---
 
-Wat mensen de meest gewone dingen vinden, is voor mij speciaal. En ik probeer deze zo veel mogelijk vast te leggen door middel van fotografie of schrift. Het Bredase station, de herfstblaadjes op het gras of de lieve mensen om mij heen die naar mij lachen. Deze 20-jarige blonde meid is al snel blij met de mensen en mooie dingen om haar heen.
+Wat mensen de meest gewone dingen vinden, zijn voor mij speciaal. En ik probeer deze zo veel mogelijk vast te leggen door middel van fotografie of schrift. Het Bredase station, de herfstblaadjes op het gras of de lieve mensen om mij heen die naar mij lachen. Deze 20-jarige blonde meid is al snel blij met de mensen en mooie dingen om haar heen.
 
 Verder ben ik met lekker weer te vinden op een dekentje in het park, maar met regen zit ik het liefst binnen op de bank met een grote kop zoethout thee. Dan kijk ik naar Gilmore Girls, Derry Girls of Golden Girls. (Lekkere meiden series hihihi) Mijn favoriete kleur is de enige echte jaren 70 oranje. En mijn slaapkamer staat vol met trinquets. Een (natuurlijk) oranje lava lamp, LP's van Wham! en ABBA, een Lego Porsche 911, veel oude biologie boekjes en foto's van vrienden en familie. Ananas op een pizza mag (als je daar gelukkig van wordt). En tot slot mag je mij 's nachts wakker maken voor een grote pot augurken. Het liefst zoetzure. hihihih
 
