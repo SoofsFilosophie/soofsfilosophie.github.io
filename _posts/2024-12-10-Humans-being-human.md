@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Humans being human"
-categories: [Blogpost]
+categories: [Blog]
 image: assets/images/3.jpg
 ---
 
