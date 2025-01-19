@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De Twijfelgids voor Twintigers"
-categories: [Lifestyle, Tips&Tricks]
+categories: [Lifestyle, Tips&Tricks, Fontys blog]
 image: assets/images/4.jpg
 ---
 
