@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boogie Oogie Oogie"
-categories: [Music, Nostalgic feelings]
+categories: [Blog, Music, Nostalgic feelings]
 image: assets/images/6.jpg
 ---
 
