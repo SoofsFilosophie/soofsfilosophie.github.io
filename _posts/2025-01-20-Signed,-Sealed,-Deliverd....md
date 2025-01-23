@@ -1,29 +1,23 @@
 ---
 layout: post
-title: "Signed, Sealed, Delivered…"
-categories: [Fontys Blog, Writing, Nostalgic feelings]
-image: assets/images/7.jpg
+title: "3 Tips van Schrijfster naar Junior Schrijfster"
+categories: [Fontys Blog, Writing, Tips&Tricks]
+image: assets/images/8.jpg
 ---
 
-**Signed, Sealed, Delivered…**
+**3 Tips van Schrijfster naar Junior Schrijfster**
 
-Stel je voor: je loopt over verweerde kinderkopjes de heuvel op richting het plein van een oud Italiaans stadje. Het weer is warm en het liefst wil je gewoon terug naar het hotel en een duik in het zwembad nemen. Maar je herinnert je dat er nog een ansichtkaart in je tasje zit. Eentje die nog geen postzegel heeft. Een nieuw doel komt in zicht en met zelfverzekerde passen loop je verder over de Italiaanse steentjes. 
-Nu hoor ik je denken, dit is mij nog nooit overkomen! En dat kan goed kloppen, want wat blijkt: PostNL moest in 2024 het aantal brievenbussen in Nederland verminderen! Aldus (PostNL, 2025). Er worden simpelweg steeds minder brieven, ansichtkaartjes of andere envelopjes verstuurd. En als er minder worden verstuurd, wordt er dus ook minder geschreven. Waarom is dit zonde en hoe kunnen we dit tegengaan? 
 
-**Lieve mama,**
+Samen sparren aan de keukentafel onder het genot van een kopje thee. Niks is zo gezellig als in dialoog gaan met je schoonmoeder, terwijl dit eigenlijk een opdracht voor school is. “We moeten dat vaker doen zo, lekker in dialoog gaan” maken we als grapje wanneer we klaar zijn. Nu keek ik hier stiekem best tegen op, want vragen stellen aan een schrijfster terwijl ik mijzelf zo nog niet eens noem is best spannend. En toch keek ik er naar uit, want ik weet dat ik altijd lieve tips meekrijg na zo’n gesprekje. 
 
-Het weer is warm, het eten heerlijk en de mensen vriendelijk. Terwijl ik dit schrijf zitten mijn tenen in het zand en staat er een ijskoude limoncello spritz voor mij op tafel. Een windvlaag waait door mijn opgestoken haar en ik merk op, dat mijn wangen verbrand zijn. Vanavond maar een fles aftersun kopen, maar eerst … 
-Jouw eigen avonturen vertellen aan een ander is iets wat we al duizenden jaren doen. Van muren in een grot, tot papier met inkt, tot aan typen op een smartphone. Maar het lijkt wel alsof we tegenwoordig alleen nog maar met zoveel mogelijk mensen willen delen. Het gaat steeds meer over het bereik in plaats van het verhaal.	 Wat zonde is, want het begon allemaal over hoe enthousiast we waren over ons avontuur en dat we dit wilden delen met anderen. 
+Iedereen herkent het wel: je zoekt een woord, maar kunt er net niet op komen. Het ligt op ’t puntje van je tong en hoe hard je ook je hersenen laat draaien, niks komt eruit. Gelukkig weet je wel precies welke richting je op wil en zo sleep je je muis naar de dat Google Chrome-icoontje. Synomienen.net is de website die in de zoekbalk word getypt. En binnen een mum van tijd heb je een enorme lijst met woorden die precies lijken op wat jij zoekt. Het puntje van je tong is gevonden! En zo typ je weer lekker verder, alsof je al deze drama nooit hebt meegemaakt.
 
-**Fantasie op papier**
+Maar wat nou als je tekst af is en je overal die vervelende rode en blauwe golfjes ziet staan? Sleep die muis weer naar je Google Chrome-icoon, typ in de meest gebruikte afkorting ooit: GPT en zie daar, jouw hulpje voor alles wat je hartje maar begeert. Zelf vraag ik ChatGPT altijd om spelling- en grammatica foutjes weer te geven in bulletpoints zonder dat hij zelf de tekst aan gaat passen. Hierdoor kan ik gemakkelijk zien wat ik wel of niet moet aanpassen!
 
-Je avontuur schrijven is veel efficiënter dan welke andere manier ook. Beeld is ruim, maar lastig want het is vaak maar een frame of een lange video. In audio is al beter en kan het zo lang zijn als je zelf maar wilt. Maar toch kan niks tippen aan de kunst van het schrijven. Wanneer ik een stuk tekst lees zie ik meteen de situatie voor me. “Ze loopt met een dikke sjaal om haar nek over de gladde stoeptegels richting de rode deur.” De meeste mensen hebben hierbij meteen een beeld. Als je deze zin zou moeten vertalen naar beeld, wordt dit al een stuk lastiger. Ik vind onze fantasie geweldig en het feit dat tekst een zo belangrijke rol hierbij kan spelen moet niet verdwijnen. 
+En wat heerlijk is het wanneer AI op mijn spelling let, want hierdoor hoef ik alleen mijn focus te leggen op het lekker schrijven. En dat lekkere schrijven komt al snel door emotie in je stukken te gooien. Zo schrijf ik over leuke momenten die ik heb meegemaakt waarbij ik in een deuk van het lachen lig. Of wanneer alles wat tegen zit en ik heel makkelijk alles kan dramatiseren op papier, terwijl in werkelijkheid er niks aan de hand is… Anywhooo. Tip nummer 3: dat lekker schrijven moet echt vanuit je hartje komen. Want als er geen emotie in zit, wilt niemand je tekst lezen, helaas.
 
-**Nieuwsgierig naar een reactie**
 
-Uren scrollen op Instagram is leuk en aardig, maar heb je nou echt het idee dat je het avontuur van die persoon echt begrijpt? Ik denk vaak bij zo’n vakantiepost, wat leuk maar hoe vonden ze nu echt hun vakantie? En dus stuur ik een DM of vraag ik naar de avonturen als we weer lekker een koffietje doen in de stad. Maar wanneer ik een brief krijg van mijn penvriendin weet ik precies wat ze afgelopen week allemaal heeft beleefd. Al haar emoties, details van haar dag en mensen om haar heen kunnen op de meest kleurrijke manier worden beschreven in een brief. Of wat dacht je van een verjaardagskaart die je nog twee maanden na je echte verjaardag op de eettafel tegen komt. Schrift vergaat niet en zo kun je voor altijd je dierbare herinneringen bij je houden. Ik schrijf graag kaarten naar de lieve mensen om mij heen. Zachte woordjes op papier waarvan mijn liefje gaat blozen, of vrolijke verhalen die een schaterende lach bij een vriendin opwekken.
-
-Kortom, verdoe wat minder van je tijd op social media en schrijf nou die post-it, kaart of liefdesbrief naar een ander. Want een reactie van een ander is het enige wat we willen. Die willen we koesteren en bij ons houden. Schrijf je avonturen dus lekker op en verzend ze naar anderen. Vergeet dit niet via PostNL te doen, anders verdwijnen er nog meer brievenbussen in 2025…
+Dus lieve lezertjes van me, ik hoop dat ik jullie weer blij heb kunnen maken met deze gouden tips. En veel schrijfplezier toegewenst!
 
 Kusjes Soof **xxx**
 
