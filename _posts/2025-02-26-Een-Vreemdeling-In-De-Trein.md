@@ -5,7 +5,6 @@ categories: [Blog, Humans being Human]
 image: assets/images/9.jpg
 ---
 
-**Een Vreemdeling in de Trein**
 
 Om zes over acht komt mijn bus aan op het station van Breda. De opkomende zon straalt door de hoge open zijkant. Ik zie de trein al klaarstaan. Zal ik hem nog halen? Zo snel mogelijk loop ik als een pakezel naar perron vier. Zodra ik de trap oploop, hoor ik de trein wegrijden. Jammer, anders was ik wat eerder op school geweest.
  
