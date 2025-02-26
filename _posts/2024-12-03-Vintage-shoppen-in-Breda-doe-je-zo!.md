@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vintage shoppen in Breda doe je zo!"
-categories: [Lifestyle, Shoppen, Fontys blog]
+categories: [Fontys blog, Lifestyle, Shoppen,]
 image: assets/images/2.jpg
 ---
 
