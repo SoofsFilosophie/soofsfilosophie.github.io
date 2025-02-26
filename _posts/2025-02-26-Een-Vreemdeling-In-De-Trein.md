@@ -1,23 +1,19 @@
 ---
 layout: post
-title: "3 Tips van Schrijfster naar Junior Schrijfster"
-categories: [Fontys Blog, Writing, Tips&Tricks]
+title: "Een Vreemdeling in de Trein."
+categories: [Blog, Humans being Human]
 image: assets/images/8.jpg
 ---
 
-**3 Tips van Schrijfster naar Junior Schrijfster**
+**Een Vreemdeling in de Trein**
 
+Om zes over acht komt mijn bus aan op het station van Breda. De opkomende zon straalt door de hoge open zijkant. Ik zie de trein al klaarstaan. Zal ik hem nog halen? Zo snel mogelijk loop ik als een pakezel naar perron vier. Zodra ik de trap oploop, hoor ik de trein wegrijden. Jammer, anders was ik wat eerder op school geweest.
+ 
+Ik drop mijn twee tassen vol eten en schoolspullen op een bankje. Het is toch wat frisser dan afgelopen dagen en ik moet mijn rits toch wat hoger optrekken. Niet te hard zoals vanochtend tho… In de badkamer, nog niet helemaal wakker, probeer ik mijn favoriete jeans dicht te trekken. Een krakend geluid van metaal op metaal galmt door de vochtige ruimte. Verdomme. 
 
-Samen sparren aan de keukentafel onder het genot van een kopje thee. Niks is zo gezellig als in dialoog gaan met je schoonmoeder, terwijl dit eigenlijk een opdracht voor school is. “We moeten dat vaker doen zo, lekker in dialoog gaan” maken we als grapje wanneer we klaar zijn. Nu keek ik hier stiekem best tegen op, want vragen stellen aan een schrijfster terwijl ik mijzelf zo nog niet eens noem is best spannend. En toch keek ik er naar uit, want ik weet dat ik altijd lieve tips meekrijg na zo’n gesprekje. 
+Mijn gedachtes worden verstoord door mijn Pavlov-reactie op het geluid van de remmende trein. Ik sta meteen op zonder erbij na te denken. Helaas is het wat drukker in de spits en is de deur die ik heb uitgekozen bij een eerste klas coupe. Op weg naar de volgende deur kom ik achterin de rij te staan. Dat wordt vechten voor een plekje. Ik zie tot mijn verbazing een open stoeltje tussen een oudere vrouw en een typisch ICT studentje. “Ik kom gezellig naast u zitten,” zeg ik tegen de vrouw. En al snel gaat de yapsessie van start. Na een minuut of twee doe ik dan toch maar mijn oortje uit. We praten over hoe zwaar onze tassen zijn en dat een zitplekje veel fijner is dan staan bij de deur. De standaard koetjes en kalfjes praat. Het liefst zou ik nu nog even op mijn telefoon zitten om de langzame ochtend nog verder uit te rekken. En zo laat ik haar maar wat doorratelen. Ik zet mijn gedachten op standje autopiloot en knik hier en daar. Ze vraagt naar mijn opleiding en gaat verder in op hoe belangrijk communicatie wel niet is in het dagelijks leven. 
 
-Iedereen herkent het wel: je zoekt een woord, maar kunt er net niet op komen. Het ligt op ’t puntje van je tong en hoe hard je ook je hersenen laat draaien, niks komt eruit. Gelukkig weet je wel precies welke richting je op wil en zo sleep je je muis naar de dat Google Chrome-icoontje. Synomienen.net is de website die in de zoekbalk word getypt. En binnen een mum van tijd heb je een enorme lijst met woorden die precies lijken op wat jij zoekt. Het puntje van je tong is gevonden! En zo typ je weer lekker verder, alsof je al deze drama nooit hebt meegemaakt.
+Ze werkte vroeger bij de klantenservice, nu bij de gemeente Tilburg. Ze heeft een huis gekocht en een stagiair op werk die ze vervelend vindt. Ze heeft een zoon die acht jaar over zijn hbo studie heeft gedaan en ze liep naar de fietsenstalling op het perron in Tilburg. Zo heb ik binnen een twaalf minuten treinreis van alles leren kennen over deze vreemdeling. Ze had op haar rechterringvinger een gouden diamantenring. Op haar linkerhand twee gouden ringen met rode stenen. Ze had grijze haren geknipt tot op de schouders met curtain bangs. Twee bruine ogen staarden mij aan door een grijze bril.
 
-Maar wat nou als je tekst af is en je overal die vervelende rode en blauwe golfjes ziet staan? Sleep die muis weer naar je Google Chrome-icoon, typ in de meest gebruikte afkorting ooit: GPT en zie daar, jouw hulpje voor alles wat je hartje maar begeert. Zelf vraag ik ChatGPT altijd om spelling- en grammatica foutjes weer te geven in bulletpoints zonder dat hij zelf de tekst aan gaat passen. Hierdoor kan ik gemakkelijk zien wat ik wel of niet moet aanpassen!
-
-En wat heerlijk is het wanneer AI op mijn spelling let, want hierdoor hoef ik alleen mijn focus te leggen op het lekker schrijven. En dat lekkere schrijven komt al snel door emotie in je stukken te gooien. Zo schrijf ik over leuke momenten die ik heb meegemaakt waarbij ik in een deuk van het lachen lig. Of wanneer alles wat tegen zit en ik heel makkelijk alles kan dramatiseren op papier, terwijl in werkelijkheid er niks aan de hand is… Anywhooo. Tip nummer 3: dat lekker schrijven moet echt vanuit je hartje komen. Want als er geen emotie in zit, wilt niemand je tekst lezen, helaas.
-
-
-Dus lieve lezertjes van me, ik hoop dat ik jullie weer blij heb kunnen maken met deze gouden tips. En veel schrijfplezier toegewenst!
-
-Kusjes Soof **xxx**
+Zoveel details weet ik nu over deze vrouw, maar ik heb nooit gevraagd naar haar naam. Ik heb vandaag een vreemdeling in de trein ontmoet. En dat zal ze voor mij ook altijd blijven.
 
