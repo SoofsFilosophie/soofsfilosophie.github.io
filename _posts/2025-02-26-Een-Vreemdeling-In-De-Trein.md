@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Een Vreemdeling in de Trein."
+title: "Een Vreemdeling in de Trein"
 categories: [Blog, Humans being Human]
-image: assets/images/8.jpg
+image: assets/images/9.jpg
 ---
 
 **Een Vreemdeling in de Trein**
