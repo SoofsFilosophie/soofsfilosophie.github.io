@@ -5,8 +5,6 @@ categories: [Fontys Blog, Writing, Tips&Tricks]
 image: assets/images/8.jpg
 ---
 
-**3 Tips van Schrijfster naar Junior Schrijfster**
-
 
 Samen sparren aan de keukentafel onder het genot van een kopje thee. Niks is zo gezellig als in dialoog gaan met je schoonmoeder, terwijl dit eigenlijk een opdracht voor school is. “We moeten dat vaker doen zo, lekker in dialoog gaan” maken we als grapje wanneer we klaar zijn. Nu keek ik hier stiekem best tegen op, want vragen stellen aan een schrijfster terwijl ik mijzelf zo nog niet eens noem is best spannend. En toch keek ik er naar uit, want ik weet dat ik altijd lieve tips meekrijg na zo’n gesprekje. 
 
